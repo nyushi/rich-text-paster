@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rich-text-paster",
+        "command": "rich-text-paster:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rich-text-paster",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rich-text-paster:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

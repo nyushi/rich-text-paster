@@ -1,0 +1,5 @@
+{
+  "atom-text-editor": {
+    "cmd-v": "rich-text-paster:execute"
+  }
+}
